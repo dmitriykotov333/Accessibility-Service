@@ -12,11 +12,15 @@
 Отображается количество дублированных ссылок, так как  может быть такое, что запросы одинаковы и чтобы не было дубликатов в списке, приложение объединяет и показывает количество дубликатов, при нажатии можно посмотреть последние десять айтем.
 Список отсортирован по дате и времени запроса.Есть возможность удалять запросы из списка. Поддержка светлой и темной темы.
 
-| Service off(Text clickable)  | Service on |  Link clickable |
-| ------------- | ------------- |  ------------- |
-| <img src = "https://github.com/user-attachments/assets/fbc4e568-8550-4c8d-9d26-739765454dee" width="300"/>  | <img src = "https://github.com/user-attachments/assets/fee6573d-ce2d-4b84-9f4d-7fa78efd97aa" width="300"/>  |   |
+| Service off(Text clickable)  | Service on |  
+| ------------- | ------------- |   
+| <img src = "https://github.com/user-attachments/assets/fbc4e568-8550-4c8d-9d26-739765454dee" width="300"/>  | <img src = "https://github.com/user-attachments/assets/fee6573d-ce2d-4b84-9f4d-7fa78efd97aa" width="300"/>  |  
  
 
+
+| Link clickable  | Fake Example |
+| ------------- | ------------- |
+| <video src="https://github.com/user-attachments/assets/b9c85d40-cc5b-4180-a22a-90a887044c3f" width="352" height="720"></video> | <video src="https://github.com/user-attachments/assets/5a07bbdd-b27a-414a-846d-1ba1a9bcef1cf" width="352" height="720"></video>  |
 
 
 | Light theme  | Dark theme |
