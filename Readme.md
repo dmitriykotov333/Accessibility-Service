@@ -12,6 +12,17 @@
 Отображается количество дублированных ссылок, так как  может быть такое, что запросы одинаковы и чтобы не было дубликатов в списке, приложение объединяет и показывает количество дубликатов, при нажатии можно посмотреть последние десять айтем.
 Список отсортирован по дате и времени запроса.Есть возможность удалять запросы из списка. Поддержка светлой и темной темы.
 
+| Service off(Text clickable)  | Service on |  Link clickable |
+| ------------- | ------------- |  ------------- |
+| <img src = "https://github.com/user-attachments/assets/fbc4e568-8550-4c8d-9d26-739765454dee" width="300"/>  | <img src = "https://github.com/user-attachments/assets/fee6573d-ce2d-4b84-9f4d-7fa78efd97aa" width="300"/>  |   |
+ 
+
+
+
+| Light theme  | Dark theme |
+| ------------- | ------------- |
+| <img src = "https://github.com/user-attachments/assets/5186cc90-f012-4592-ad42-37f6ad2eec40" width="300"/>  | <img src = "https://github.com/user-attachments/assets/3aa807fc-a6e4-400c-860b-3ae59d20e874" width="300"/>  |
+
 
 ## Этапы работы ~(12h + 2h Readme.md)
 Алгоритм подсчета времени, если задача заняла больше 30-40 мин я ее считаю как 1 час
