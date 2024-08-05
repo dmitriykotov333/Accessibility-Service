@@ -1,4 +1,4 @@
-# Android-Test-Assignment
+# Android-Test-Assignment | <a href="https://github.com/dmitriykotov333/Android-Test-Assignment/blob/master/app-debug.apk">APK</a>
 
 ## О проекте
 
