@@ -20,7 +20,7 @@
 
 | Link clickable  | Fake Example |
 | ------------- | ------------- |
-| <video src="https://github.com/user-attachments/assets/b9c85d40-cc5b-4180-a22a-90a887044c3f" width="352" height="720"></video> | <video src="https://github.com/user-attachments/assets/5a07bbdd-b27a-414a-846d-1ba1a9bcef1cf" width="352" height="720"></video>  |
+| <video src="https://github.com/user-attachments/assets/b9c85d40-cc5b-4180-a22a-90a887044c3f" width="352" height="720"></video> | <video src="https://github.com/user-attachments/assets/0e5ca29f-9d87-4132-8f0c-45435c3e906a" width="352" height="720"></video>  |
 
 
 | Light theme  | Dark theme |
