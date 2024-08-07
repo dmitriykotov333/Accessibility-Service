@@ -33,7 +33,7 @@ Supports both light and dark themes.
 | <img src = "https://github.com/user-attachments/assets/5186cc90-f012-4592-ad42-37f6ad2eec40" width="300"/>  | <img src = "https://github.com/user-attachments/assets/3aa807fc-a6e4-400c-860b-3ae59d20e874" width="300"/>  |
 
 
-## Stack  
+## Libraries and Tools  
   - MVI
   - Jetpack Compose
   - Dagger Hilt
